@@ -16,13 +16,13 @@ LICENSE — project license (Apache-2.0).
 
 Dataset & provenance
 
-Current status: the dataset file (GDP Per Capita.xlsx) is included in this repository. I could not automatically verify the external data source inside the workbook (the .twbx is a packaged Tableau workbook). Please confirm and replace the placeholder below with the actual source(s):
+Current status: the dataset file (GDP Per Capita.xlsx) is included in this repository.
 
 Suggested format:
 
 Source: World Bank — GDP per capita (current US$) — https://data.worldbank.org/ (or the actual source you used)
 
-Years covered: e.g. 2010–2024 (update with exact years present)
+Years covered: e.g. 1960–2024 (update with exact years present)
 
 Notes: units (current US$, constant US$, PPP), any currency conversions performed, and whether population was used to compute per-capita figures.
 
@@ -49,7 +49,7 @@ Download GDP per Capita of the World.twbx.
 
 Open with Tableau Desktop or Tableau Reader. If you want an online interactive version, publish the workbook from Tableau Desktop to Tableau Public (or Tableau Server if you have access).
 
-Contact / author: Raj Kumar (GitHub: @Raj-9719)
+Contact / author: Raj Kuntal (GitHub: @Raj-9719), (Tableau Public: Raj.Kuntal
 
 License
 
