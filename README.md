@@ -44,12 +44,12 @@ Filters: year slider, region selector, country search.
 
 How to view & reproduce
 View the Tableau workbook
-
+https://public.tableau.com/app/profile/raj.kuntal/viz/GDPperCapita_17578325630710/GDPperCapitaoftheWorldCountries
 Download GDP per Capita of the World.twbx.
 
 Open with Tableau Desktop or Tableau Reader. If you want an online interactive version, publish the workbook from Tableau Desktop to Tableau Public (or Tableau Server if you have access).
 
-Contact / author: Raj Kuntal (GitHub: @Raj-9719), (Tableau Public: Raj.Kuntal
+Contact / author: Raj Kuntal (GitHub: @Raj-9719), (Tableau Public: Raj.Kuntal)
 
 License
 
